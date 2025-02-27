@@ -1,5 +1,14 @@
 # trigger.dev
 
+## 3.3.17
+
+### Patch Changes
+
+- Fix issue where a typescript file with only types causes indexing to fail ([#1735](https://github.com/triggerdotdev/trigger.dev/pull/1735))
+- Updated dependencies:
+  - `@trigger.dev/core@3.3.17`
+  - `@trigger.dev/build@3.3.17`
+
 ## 3.3.16
 
 ### Patch Changes
